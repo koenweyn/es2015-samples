@@ -1,5 +1,6 @@
 # es2015-samples
-One ES2015 code sample a day keeps the JS doctor away
+One ES2015 code sample a day keeps the JS doctor away.
+All samples can be run with NodeJS v4.1.1.
 
 [ECMAScript 2015 Language reference](http://www.ecma-international.org/ecma-262/6.0/)
 
