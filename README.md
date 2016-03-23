@@ -1,5 +1,5 @@
 # es2015-samples
-One ES2015 code samples a day
+One ES2015 code sample a day keeps the JS doctor away
 
 [ECMAScript 2015 Language reference](http://www.ecma-international.org/ecma-262/6.0/)
 
