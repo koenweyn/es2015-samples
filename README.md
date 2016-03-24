@@ -25,3 +25,4 @@ All samples can be run with NodeJS v4.1.1.
 * binary and octal literals
 * reflect api
 * tail calls
+* mixins
