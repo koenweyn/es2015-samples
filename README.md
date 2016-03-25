@@ -6,7 +6,7 @@ All samples can be run with NodeJS v4.1.1.
 
 * arrows
 * classes
-* enhanced object literals
+* enhanced object initializers
 * template strings
 * destructuring
 * default + rest + spread
