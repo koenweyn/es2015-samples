@@ -10,7 +10,7 @@ All samples can be run with NodeJS v4.1.1.
 * template strings
 * destructuring
 * default + rest + spread
-* let + const
+* [let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) + [const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
 * iterators + for..of
 * generators
 * unicode
