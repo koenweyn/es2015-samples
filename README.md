@@ -11,7 +11,7 @@ All samples can be run with NodeJS v4.1.1.
 * destructuring
 * default + rest + spread
 * [let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) + [const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
-* iterators + for..of
+* [iterators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols) + [for..of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
 * generators
 * unicode
 * modules
