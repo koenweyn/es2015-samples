@@ -60,8 +60,8 @@ function breakingNumberList(max = 3) {
             value: i++
           };
         },
-        return: function(value) {
-          console.log('The iterator is stopped by breaking the loop' + value);
+        return: function() {
+          console.log('The iterator is stopped by breaking the loop');
           return {
             done: true
           };
