@@ -13,7 +13,7 @@ All samples can be run with NodeJS v4.1.1.
 * [let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) + [const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
 * [iterators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols) + [for..of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
 * [generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators#Generators)
-* unicode
+* [unicode](http://es6-features.org/#UnicodeStringRegExpLiteral)
 * modules
 * module loaders
 * map + set + weakmap + weakset
