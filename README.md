@@ -15,6 +15,8 @@ All samples can be run with NodeJS v4.1.1.
 * [generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators#Generators)
 * [unicode](http://es6-features.org/#UnicodeStringRegExpLiteral)
 * modules
+    * [Overview](http://es6-features.org/#ValueExportImport)
+    * [In depth](http://exploringjs.com/es6/ch_modules.html)
 * module loaders
 * map + set + weakmap + weakset
 * proxies
