@@ -1,6 +1,7 @@
 # es2015-samples
-One ES2015 code sample a day keeps the JS doctor away.
-All samples can be run with NodeJS v4.1.1.
+One ES2015 code sample a day.
+All samples can be run with NodeJS v5.1+ and Babel with the ES2015 preset ([ES2015 Compatibility Matrix](https://kangax.github.io/compat-table/es6/)).
+
 
 [ECMAScript 2015 Language reference](http://www.ecma-international.org/ecma-262/6.0/)
 
