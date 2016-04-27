@@ -18,6 +18,7 @@ All samples can be run with NodeJS v4.1.1.
     * [Overview](http://es6-features.org/#ValueExportImport)
     * [In depth](http://exploringjs.com/es6/ch_modules.html)
 * module loaders
+    * [In depth](http://exploringjs.com/es6/ch_modules.html#sec_module-loader-api)
 * map + set + weakmap + weakset
 * proxies
 * symbols
