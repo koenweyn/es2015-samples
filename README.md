@@ -21,6 +21,7 @@ All samples can be run with NodeJS v5.1+ and Babel with the ES2015 preset ([ES20
 * module loaders
     * [In depth](http://exploringjs.com/es6/ch_modules.html#sec_module-loader-api)
 * map + set + weakmap + weakset
+    * Overview: [Set](http://es6-features.org/#SetDataStructure), [Map](http://es6-features.org/#MapDataStructure), [WeakSet/WeakMap](http://es6-features.org/#WeakLinkDataStructures)
 * proxies
 * symbols
 * subclassable built-ins
